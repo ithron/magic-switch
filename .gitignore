@@ -1,0 +1,4 @@
+*.FCStd1
+*.FCStd.*
+.DS_Store
+.vscode
